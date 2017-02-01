@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LiquidCore-v0.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.liquidplayer/LiquidCore/v0.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.liquidplayer/LiquidCore/v0.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.liquidplayer/LiquidCore/v0.1.0/8093cb3f0e4ea4a0d073a09069cff61749267428/LiquidCore-v0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -12,8 +12,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 import org.apache.commons.io.FileUtils;
-import org.liquidplayer.webkit.javascriptcore.JSContext;
-import org.liquidplayer.webkit.javascriptcore.JSException;
+import org.liquidplayer.javascript.*;
 
 /**
  * Created by reality on 3/28/16.
@@ -95,6 +94,6 @@ public class Encrypter {
         Log.w("progress", "written temp file");
 
         Log.w("progress", "done encryption");
-        uploader.doneEncryption(outputFile.getAbsolutePath());
+        uploader.doneEncryption(outputFile.getAbsolutePath(), password);
     }
 }

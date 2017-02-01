@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:text="Upload"
         android:id="@+id/rawUploadButton"
-        android:onClick="onRawUploadBtn (UploadActivity)"
+        android:onClick="onRawUploadBtn"
         android:nestedScrollingEnabled="false"
         android:layout_below="@+id/password"
         android:layout_centerHorizontal="true" />

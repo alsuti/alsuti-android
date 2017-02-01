@@ -14,6 +14,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.provider.MediaStore;
+import android.provider.Settings;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -28,6 +29,8 @@ import android.widget.Toast;
 
 import com.loopj.android.http.*;
 
+import org.json.JSONException;
+import org.json.JSONObject;
 import org.liquidplayer.webkit.javascriptcore.JSException;
 
 import java.io.File;
@@ -94,7 +97,7 @@ public class UploadActivity extends AppCompatActivity {
         }
     }
 
-    public void onRawUploadBtn(View v) throws IOException, JSException {
+    public void onRawUploadBtn(View v) throws IOException {
         hideButtons();
 
         if (ContextCompat.checkSelfPermission(this,
@@ -112,14 +115,14 @@ public class UploadActivity extends AppCompatActivity {
         }
     }
 
-    public void doneEncryption(final String result) {
+    public void doneEncryption(final String fName, final String password) {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
             EditText progressBox = (EditText) findViewById(R.id.editText);
-            waitingFileName = result;
+            waitingFileName = fName; // move this to an argument
             progressBox.setText("Uploading...");
-            postFile();
+            postFile(password);
             }
         });
     }
@@ -165,6 +168,10 @@ public class UploadActivity extends AppCompatActivity {
     }
 
     private void postFile() {
+        postFile("");
+    }
+
+    private void postFile(final String password) {
         AsyncHttpClient client = new AsyncHttpClient();
 
         if(prefs.getBoolean("useTor", false)) {
@@ -173,10 +180,10 @@ public class UploadActivity extends AppCompatActivity {
 
         RequestParams params = new RequestParams();
 
-        params.put("username", this.prefs.getString("username", ""));
-        params.put("password", this.prefs.getString("username", ""));
+        client.setBasicAuth(this.prefs.getString("apiUsername", ""), this.prefs.getString("apiPassword", ""));
+        client.addHeader("api", "true");
         try {
-            params.put("fileupload", new File(waitingFileName));
+            params.put("file", new File(waitingFileName));
         } catch (FileNotFoundException e) {
             Toast.makeText(this, "Error: Cannot find file", Toast.LENGTH_LONG).show();
         }
@@ -192,19 +199,32 @@ public class UploadActivity extends AppCompatActivity {
         client.post(prefs.getString("apiEndpoint", "") + "/upload", params, new AsyncHttpResponseHandler() {
             @Override
             public void onSuccess(int statusCode, cz.msebera.android.httpclient.Header[] headers, byte[] responseBody) {
-                if (responseBody != null) {
+                EditText linkBox = (EditText) findViewById(R.id.editText);
+
+                if(responseBody != null) {
                     try {
-                        String link = new String(responseBody, "UTF-8");
-                        EditText linkBox = (EditText) findViewById(R.id.editText);
-                        linkBox.setText(link);
+                        JSONObject response = new JSONObject(new String(responseBody));
 
-                        ClipboardManager clipboard = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
-                        ClipData clip = ClipData.newPlainText(link, link);
-                        clipboard.setPrimaryClip(clip);
+                        if(response.getBoolean("error") != false) {
+                            linkBox.setText("Error: " + response.getString("error"));
+                        } else {
+                            String link = prefs.getString("apiEndpoint", "") + "/" + response.getString("fileName");
+                            if (password != "") {
+                                link += "#" + password;
+                            }
 
-                        Toast.makeText(getBaseContext(), "Link copied to clipboard", Toast.LENGTH_LONG).show();
-                    } catch (UnsupportedEncodingException e) {
+                            linkBox.setText(link);
+
+                            ClipboardManager clipboard = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
+                            ClipData clip = ClipData.newPlainText(link, link);
+                            clipboard.setPrimaryClip(clip);
+
+                            Toast.makeText(getBaseContext(), "Link copied to clipboard", Toast.LENGTH_LONG).show();
+                        }
+                    } catch (JSONException e) {
                         e.printStackTrace();
+                        linkBox.setText("Failed");
+                        Toast.makeText(getBaseContext(), "Failed to parse response", Toast.LENGTH_LONG).show();
                     }
                 }
             }
