@@ -25,7 +25,8 @@ public class AlsutiActivity extends AppCompatActivity {
     SharedPreferences prefs;
     Activity activity;
     EditText apiEndpoint;
-    EditText apiKey;
+    EditText apiUsername;
+    EditText apiPassword;
     CheckBox useTor;
 
     @Override
@@ -38,10 +39,12 @@ public class AlsutiActivity extends AppCompatActivity {
 
             prefs = PreferenceManager.getDefaultSharedPreferences(this);
             apiEndpoint = (EditText) findViewById(R.id.editApiEndpointText);
-            apiKey = (EditText) findViewById(R.id.editApiKeyText);
+            apiUsername = (EditText) findViewById(R.id.editUsernameText);
+            apiPassword = (EditText) findViewById(R.id.editPasswordText);
 
-            apiEndpoint.setText(this.prefs.getString("apiEndpoint", ""));
-            apiKey.setText(this.prefs.getString("apiKey", ""));
+            apiEndpoint.setText(this.prefs.getString("apiEndpoint", "https://alsuti.xyz"));
+            apiUsername.setText(this.prefs.getString("apiUsername", ""));
+            apiPassword.setText(this.prefs.getString("apiPassword", ""));
 
             useTor = (CheckBox) findViewById(R.id.useTor);
             useTor.setChecked(this.prefs.getBoolean("useTor", false));
@@ -49,8 +52,13 @@ public class AlsutiActivity extends AppCompatActivity {
 
     public void onClickBtn(View v) {
         SharedPreferences.Editor editor = prefs.edit();
-        editor.putString("apiEndpoint", apiEndpoint.getText().toString());
-        editor.putString("apiKey", apiKey.getText().toString());
+
+        String endPointText = apiEndpoint.getText().toString();
+        endPointText.replace("/upload", "");
+
+        editor.putString("apiEndpoint", endPointText);
+        editor.putString("apiUsername", apiUsername.getText().toString());
+        editor.putString("apiPassword", apiPassword.getText().toString());
         editor.putBoolean("useTor", useTor.isChecked());
         editor.commit();
         Toast.makeText(this, "Settings saved", Toast.LENGTH_LONG).show();

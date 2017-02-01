@@ -34,6 +34,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.util.Random;
 
 public class UploadActivity extends AppCompatActivity {
 
@@ -65,42 +66,49 @@ public class UploadActivity extends AppCompatActivity {
         }
     }
 
-    public void onClickBtn(View v) throws IOException, JSException {
-        EditText passwordBox = (EditText) findViewById(R.id.password);
+    public void hideButtons() {
         EditText progressBox = (EditText) findViewById(R.id.editText);
-        Button uploadButton = (Button) findViewById(R.id.uploadButton);
+        Button rawUploadButton = (Button) findViewById(R.id.rawUploadButton);
+        Button encUploadButton = (Button) findViewById(R.id.encryptUploadButton);
 
-        String password = passwordBox.getText().toString();
-        passwordBox.setVisibility(View.INVISIBLE);
-        uploadButton.setVisibility(View.INVISIBLE);
+        rawUploadButton.setVisibility(View.INVISIBLE);
+        encUploadButton.setVisibility(View.INVISIBLE);
         progressBox.setVisibility(View.VISIBLE);
+    }
 
-        Log.w("alsuti pass", password.toString());
+    public void onEncUploadBtn(View v) throws IOException, JSException {
+        hideButtons();
 
-        if (password.length() != 0) {
-            encrypted = true;
-            progressBox.setText("Encrypting...");
-            try {
-                encrypter = new Encrypter(this, getBaseContext(), waitingFileName, password);
-                encrypter.runEncryption();
-            } catch (IOException e) {
-                e.printStackTrace();
-                Toast.makeText(this, "unable to load things", Toast.LENGTH_LONG).show();
-            }
-        } else { //TODO: remove repeated code
-            if (ContextCompat.checkSelfPermission(this,
-                    Manifest.permission.READ_EXTERNAL_STORAGE)
-                    != PackageManager.PERMISSION_GRANTED) {
+        EditText progressBox = (EditText) findViewById(R.id.editText);
+        String password = random();
 
-                // Should we show an explanation?
-                if (ActivityCompat.shouldShowRequestPermissionRationale(this,
-                        Manifest.permission.READ_EXTERNAL_STORAGE)) {
-                } else {
-                    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_EXTERNAL_STORAGE}, 1);
-                }
+        progressBox.setText("Encrypting");
+        encrypted = true;
+
+        try {
+            encrypter = new Encrypter(this, getBaseContext(), waitingFileName, password);
+            encrypter.runEncryption();
+        } catch (IOException e) {
+            e.printStackTrace();
+            Toast.makeText(this, "unable to load things", Toast.LENGTH_LONG).show();
+        }
+    }
+
+    public void onRawUploadBtn(View v) throws IOException, JSException {
+        hideButtons();
+
+        if (ContextCompat.checkSelfPermission(this,
+                Manifest.permission.READ_EXTERNAL_STORAGE)
+                != PackageManager.PERMISSION_GRANTED) {
+
+            // Should we show an explanation?
+            if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+                    Manifest.permission.READ_EXTERNAL_STORAGE)) {
             } else {
-                postFile();
+                ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_EXTERNAL_STORAGE}, 1);
             }
+        } else {
+            postFile();
         }
     }
 
@@ -108,10 +116,10 @@ public class UploadActivity extends AppCompatActivity {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
-                EditText progressBox = (EditText) findViewById(R.id.editText);
-                waitingFileName = result;
-                progressBox.setText("Uploading...");
-                postFile();
+            EditText progressBox = (EditText) findViewById(R.id.editText);
+            waitingFileName = result;
+            progressBox.setText("Uploading...");
+            postFile();
             }
         });
     }
@@ -165,7 +173,8 @@ public class UploadActivity extends AppCompatActivity {
 
         RequestParams params = new RequestParams();
 
-        params.put("api_key", this.prefs.getString("apiKey", ""));
+        params.put("username", this.prefs.getString("username", ""));
+        params.put("password", this.prefs.getString("username", ""));
         try {
             params.put("fileupload", new File(waitingFileName));
         } catch (FileNotFoundException e) {
@@ -180,7 +189,7 @@ public class UploadActivity extends AppCompatActivity {
         client.setResponseTimeout(60000);
         client.setTimeout(60000);
 
-        client.post(prefs.getString("apiEndpoint", ""), params, new AsyncHttpResponseHandler() {
+        client.post(prefs.getString("apiEndpoint", "") + "/upload", params, new AsyncHttpResponseHandler() {
             @Override
             public void onSuccess(int statusCode, cz.msebera.android.httpclient.Header[] headers, byte[] responseBody) {
                 if (responseBody != null) {
@@ -223,5 +232,19 @@ public class UploadActivity extends AppCompatActivity {
     @Override
     public void onStop() {
         super.onStop();
+    }
+
+    // probably doesn't really belong here
+    // nicked from http://stackoverflow.com/questions/12116092/android-random-string-generator because lazy
+    public static String random() {
+        Random generator = new Random();
+        StringBuilder randomStringBuilder = new StringBuilder();
+        int randomLength = generator.nextInt(20);
+        char tempChar;
+        for (int i = 0; i < randomLength; i++){
+            tempChar = (char) (generator.nextInt(96) + 32);
+            randomStringBuilder.append(tempChar);
+        }
+        return randomStringBuilder.toString();
     }
 }

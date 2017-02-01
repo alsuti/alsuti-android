@@ -8,9 +8,9 @@ package com.google.android.gms.appindexing;
 
 public final class R {
 	public static final class attr {
-		public static final int circleCrop = 0x7f0100c1;
-		public static final int imageAspectRatio = 0x7f0100c0;
-		public static final int imageAspectRatioAdjust = 0x7f0100bf;
+		public static final int circleCrop = 0x7f0100ca;
+		public static final int imageAspectRatio = 0x7f0100c9;
+		public static final int imageAspectRatioAdjust = 0x7f0100c8;
 	}
 	public static final class color {
 		public static final int common_action_bar_splitter = 0x7f0b0015;
@@ -23,28 +23,28 @@ public final class R {
 		public static final int common_signin_btn_light_text_disabled = 0x7f0b001c;
 		public static final int common_signin_btn_light_text_focused = 0x7f0b001d;
 		public static final int common_signin_btn_light_text_pressed = 0x7f0b001e;
-		public static final int common_signin_btn_text_dark = 0x7f0b005a;
-		public static final int common_signin_btn_text_light = 0x7f0b005b;
+		public static final int common_signin_btn_text_dark = 0x7f0b0062;
+		public static final int common_signin_btn_text_light = 0x7f0b0063;
 	}
 	public static final class drawable {
-		public static final int common_full_open_on_phone = 0x7f02004b;
-		public static final int common_ic_googleplayservices = 0x7f02004c;
+		public static final int common_full_open_on_phone = 0x7f02004c;
+		public static final int common_ic_googleplayservices = 0x7f02004d;
 	}
 	public static final class id {
-		public static final int adjust_height = 0x7f0c0033;
-		public static final int adjust_width = 0x7f0c0034;
+		public static final int adjust_height = 0x7f0c0034;
+		public static final int adjust_width = 0x7f0c0035;
 		public static final int none = 0x7f0c0010;
 		public static final int normal = 0x7f0c000c;
-		public static final int wrap_content = 0x7f0c001a;
+		public static final int wrap_content = 0x7f0c0020;
 	}
 	public static final class integer {
-		public static final int google_play_services_version = 0x7f0a0005;
+		public static final int google_play_services_version = 0x7f0a0004;
 	}
 	public static final class raw {
 	}
 	public static final class string {
-		public static final int auth_google_play_services_client_facebook_display_name = 0x7f060035;
-		public static final int auth_google_play_services_client_google_display_name = 0x7f060036;
+		public static final int auth_google_play_services_client_facebook_display_name = 0x7f060041;
+		public static final int auth_google_play_services_client_google_display_name = 0x7f060042;
 		public static final int common_android_wear_notification_needs_update_text = 0x7f060013;
 		public static final int common_android_wear_update_text = 0x7f060014;
 		public static final int common_android_wear_update_title = 0x7f060015;
@@ -79,7 +79,7 @@ public final class R {
 	public static final class style {
 	}
 	public static final class styleable {
-		public static final int[] LoadingImageView = { 0x7f0100bf, 0x7f0100c0, 0x7f0100c1 };
+		public static final int[] LoadingImageView = { 0x7f0100c8, 0x7f0100c9, 0x7f0100ca };
 		public static final int LoadingImageView_circleCrop = 2;
 		public static final int LoadingImageView_imageAspectRatio = 1;
 		public static final int LoadingImageView_imageAspectRatioAdjust = 0;

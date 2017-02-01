@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/reality/alsuti/android/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -31,14 +31,14 @@
                     "endOffset": 420
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/src/main/res/values-v21/styles.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 18,
+                        "startOffset": 20,
                         "endLine": 7,
                         "endColumn": 12,
-                        "endOffset": 314
+                        "endOffset": 321
                     }
                 }
             },
@@ -51,7 +51,7 @@
                     "endOffset": 511
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 717
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 822
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 929
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 1038
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1147
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1256
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1365
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1474
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1581
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1684
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1958
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 2113
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 2218
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2339
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2440
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2587
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -419,7 +419,7 @@
                     "endOffset": 2728
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 2831
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -458,7 +458,7 @@
                     "endOffset": 2950
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -477,7 +477,7 @@
                     "endOffset": 3057
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -496,7 +496,7 @@
                     "endOffset": 3160
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3315
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3486
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3635
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3800
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3957
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 4108
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -641,7 +641,7 @@
                     "endOffset": 4227
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -656,59 +656,19 @@
                     "startLine": 50,
                     "startColumn": 4,
                     "startOffset": 4232,
-                    "endLine": 51,
+                    "endLine": 54,
                     "endColumn": 12,
-                    "endOffset": 4376
+                    "endOffset": 4599
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
                         "startOffset": 3862,
-                        "endLine": 44,
+                        "endLine": 47,
                         "endColumn": 12,
-                        "endOffset": 4006
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 4381,
-                    "endLine": 53,
-                    "endColumn": 12,
-                    "endOffset": 4525
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 45,
-                        "startColumn": 4,
-                        "startOffset": 4011,
-                        "endLine": 46,
-                        "endColumn": 12,
-                        "endOffset": 4155
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 4530,
-                    "endColumn": 111,
-                    "endOffset": 4637
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 47,
-                        "startColumn": 4,
-                        "startOffset": 4160,
-                        "endColumn": 111,
-                        "endOffset": 4267
+                        "endOffset": 4229
                     }
                 }
             },
@@ -716,60 +676,60 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 4642,
-                    "endColumn": 146,
-                    "endOffset": 4784
+                    "startOffset": 4604,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4748
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 4272,
-                        "endColumn": 146,
-                        "endOffset": 4414
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 4789,
-                    "endLine": 57,
+                    "startOffset": 4753,
+                    "endLine": 58,
                     "endColumn": 12,
-                    "endOffset": 4937
+                    "endOffset": 4897
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 49,
+                        "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 4419,
-                        "endLine": 50,
+                        "startOffset": 4383,
+                        "endLine": 51,
                         "endColumn": 12,
-                        "endOffset": 4567
+                        "endOffset": 4527
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 4942,
-                    "endLine": 59,
-                    "endColumn": 12,
-                    "endOffset": 5084
+                    "startOffset": 4902,
+                    "endColumn": 111,
+                    "endOffset": 5009
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 51,
+                        "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 4572,
-                        "endLine": 52,
-                        "endColumn": 12,
-                        "endOffset": 4714
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
                     }
                 }
             },
@@ -777,18 +737,18 @@
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5089,
-                    "endColumn": 74,
-                    "endOffset": 5159
+                    "startOffset": 5014,
+                    "endColumn": 146,
+                    "endOffset": 5156
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 4719,
-                        "endColumn": 74,
-                        "endOffset": 4789
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
                     }
                 }
             },
@@ -796,37 +756,20 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5164,
-                    "endColumn": 88,
-                    "endOffset": 5248
+                    "startOffset": 5161,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5309
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 4794,
-                        "endColumn": 88,
-                        "endOffset": 4878
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 62,
-                    "startColumn": 4,
-                    "startOffset": 5253,
-                    "endColumn": 86,
-                    "endOffset": 5335
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 55,
-                        "startColumn": 4,
-                        "startOffset": 4883,
-                        "endColumn": 86,
-                        "endOffset": 4965
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
                     }
                 }
             },
@@ -834,165 +777,199 @@
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5340,
-                    "endColumn": 100,
-                    "endOffset": 5436
+                    "startOffset": 5314,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 5456
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 4970,
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5461,
+                    "endColumn": 74,
+                    "endOffset": 5531
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5536,
+                    "endColumn": 88,
+                    "endOffset": 5620
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5625,
+                    "endColumn": 86,
+                    "endOffset": 5707
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5712,
+                    "endColumn": 100,
+                    "endOffset": 5808
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
                         "endColumn": 100,
-                        "endOffset": 5066
+                        "endOffset": 5438
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 5441,
-                    "endLine": 107,
-                    "endColumn": 12,
-                    "endOffset": 8504
+                    "startOffset": 5813,
+                    "endColumn": 102,
+                    "endOffset": 5911
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 57,
+                        "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 5071,
-                        "endLine": 100,
-                        "endColumn": 12,
-                        "endOffset": 8134
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 108,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 8509,
-                    "endLine": 110,
+                    "startOffset": 5916,
+                    "endLine": 113,
                     "endColumn": 12,
-                    "endOffset": 8690
+                    "endOffset": 8979
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 101,
+                        "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 8139,
-                        "endLine": 103,
+                        "startOffset": 5546,
+                        "endLine": 106,
                         "endColumn": 12,
-                        "endOffset": 8320
+                        "endOffset": 8609
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 8695,
-                    "endLine": 154,
+                    "startOffset": 8984,
+                    "endLine": 116,
                     "endColumn": 12,
-                    "endOffset": 11770
+                    "endOffset": 9165
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 104,
+                        "startLine": 107,
                         "startColumn": 4,
-                        "startOffset": 8325,
-                        "endLine": 147,
+                        "startOffset": 8614,
+                        "endLine": 109,
                         "endColumn": 12,
-                        "endOffset": 11400
+                        "endOffset": 8795
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 155,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 11775,
-                    "endLine": 157,
+                    "startOffset": 9170,
+                    "endLine": 160,
                     "endColumn": 12,
-                    "endOffset": 11968
+                    "endOffset": 12245
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 148,
+                        "startLine": 110,
                         "startColumn": 4,
-                        "startOffset": 11405,
-                        "endLine": 150,
+                        "startOffset": 8800,
+                        "endLine": 153,
                         "endColumn": 12,
-                        "endOffset": 11598
+                        "endOffset": 11875
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 158,
+                    "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 11973,
-                    "endLine": 159,
-                    "endColumn": 12,
-                    "endOffset": 12091
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 151,
-                        "startColumn": 4,
-                        "startOffset": 11603,
-                        "endLine": 152,
-                        "endColumn": 12,
-                        "endOffset": 11721
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 160,
-                    "startColumn": 4,
-                    "startOffset": 12096,
-                    "endLine": 161,
-                    "endColumn": 12,
-                    "endOffset": 12214
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 153,
-                        "startColumn": 4,
-                        "startOffset": 11726,
-                        "endLine": 154,
-                        "endColumn": 12,
-                        "endOffset": 11844
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 162,
-                    "startColumn": 4,
-                    "startOffset": 12219,
+                    "startOffset": 12250,
                     "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12327
+                    "endOffset": 12443
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 155,
+                        "startLine": 154,
                         "startColumn": 4,
-                        "startOffset": 11849,
+                        "startOffset": 11880,
                         "endLine": 156,
                         "endColumn": 12,
-                        "endOffset": 11957
+                        "endOffset": 12073
                     }
                 }
             },
@@ -1000,20 +977,20 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12332,
+                    "startOffset": 12448,
                     "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12510
+                    "endOffset": 12643
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
-                        "startOffset": 11962,
+                        "startOffset": 12078,
                         "endLine": 159,
                         "endColumn": 12,
-                        "endOffset": 12140
+                        "endOffset": 12273
                     }
                 }
             },
@@ -1021,20 +998,20 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12515,
+                    "startOffset": 12648,
                     "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 12641
+                    "endOffset": 12766
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
-                        "startOffset": 12145,
+                        "startOffset": 12278,
                         "endLine": 161,
                         "endColumn": 12,
-                        "endOffset": 12271
+                        "endOffset": 12396
                     }
                 }
             },
@@ -1042,39 +1019,41 @@
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 12646,
-                    "endLine": 171,
+                    "startOffset": 12771,
+                    "endLine": 170,
                     "endColumn": 12,
-                    "endOffset": 12842
+                    "endOffset": 12889
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
-                        "startOffset": 12276,
-                        "endLine": 164,
+                        "startOffset": 12401,
+                        "endLine": 163,
                         "endColumn": 12,
-                        "endOffset": 12472
+                        "endOffset": 12519
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 172,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 12847,
-                    "endColumn": 88,
-                    "endOffset": 12931
+                    "startOffset": 12894,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 13002
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 165,
+                        "startLine": 164,
                         "startColumn": 4,
-                        "startOffset": 12477,
-                        "endColumn": 88,
-                        "endOffset": 12561
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
                     }
                 }
             },
@@ -1082,56 +1061,20 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 12936,
-                    "endColumn": 110,
-                    "endOffset": 13042
+                    "startOffset": 13007,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 13185
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
-                        "startOffset": 12566,
-                        "endColumn": 110,
-                        "endOffset": 12672
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 174,
-                    "startColumn": 4,
-                    "startOffset": 13047,
-                    "endColumn": 126,
-                    "endOffset": 13169
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 167,
-                        "startColumn": 4,
-                        "startOffset": 12677,
-                        "endColumn": 126,
-                        "endOffset": 12799
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 175,
-                    "startColumn": 4,
-                    "startOffset": 13174,
-                    "endColumn": 100,
-                    "endOffset": 13270
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 168,
-                        "startColumn": 4,
-                        "startOffset": 12804,
-                        "endColumn": 100,
-                        "endOffset": 12900
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
                     }
                 }
             },
@@ -1139,37 +1082,20 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13275,
-                    "endColumn": 94,
-                    "endOffset": 13365
+                    "startOffset": 13190,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 13316
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 12905,
-                        "endColumn": 94,
-                        "endOffset": 12995
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 177,
-                    "startColumn": 4,
-                    "startOffset": 13370,
-                    "endColumn": 122,
-                    "endOffset": 13488
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 170,
-                        "startColumn": 4,
-                        "startOffset": 13000,
-                        "endColumn": 122,
-                        "endOffset": 13118
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
                     }
                 }
             },
@@ -1177,58 +1103,58 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 13493,
-                    "endColumn": 128,
-                    "endOffset": 13617
+                    "startOffset": 13321,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 13517
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
-                        "startOffset": 13123,
-                        "endColumn": 128,
-                        "endOffset": 13247
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 179,
-                    "startColumn": 4,
-                    "startOffset": 13622,
-                    "endColumn": 116,
-                    "endOffset": 13734
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 172,
-                        "startColumn": 4,
-                        "startOffset": 13252,
-                        "endColumn": 116,
-                        "endOffset": 13364
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 180,
-                    "startColumn": 4,
-                    "startOffset": 13739,
-                    "endLine": 182,
-                    "endColumn": 12,
-                    "endOffset": 13911
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 173,
-                        "startColumn": 4,
-                        "startOffset": 13369,
-                        "endLine": 175,
+                        "startOffset": 12951,
+                        "endLine": 173,
                         "endColumn": 12,
-                        "endOffset": 13541
+                        "endOffset": 13147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13522,
+                    "endColumn": 88,
+                    "endOffset": 13606
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13611,
+                    "endColumn": 110,
+                    "endOffset": 13717
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
                     }
                 }
             },
@@ -1236,39 +1162,20 @@
                 "to": {
                     "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 13916,
-                    "endColumn": 98,
-                    "endOffset": 14010
+                    "startOffset": 13722,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 13950
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
-                        "startOffset": 13546,
-                        "endColumn": 98,
-                        "endOffset": 13640
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 184,
-                    "startColumn": 4,
-                    "startOffset": 14015,
-                    "endLine": 185,
-                    "endColumn": 12,
-                    "endOffset": 14145
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 177,
-                        "startColumn": 4,
-                        "startOffset": 13645,
+                        "startOffset": 13352,
                         "endLine": 178,
                         "endColumn": 12,
-                        "endOffset": 13775
+                        "endOffset": 13580
                     }
                 }
             },
@@ -1276,20 +1183,37 @@
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 14150,
-                    "endLine": 187,
-                    "endColumn": 12,
-                    "endOffset": 14288
+                    "startOffset": 13955,
+                    "endColumn": 100,
+                    "endOffset": 14051
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
-                        "startOffset": 13780,
-                        "endLine": 180,
-                        "endColumn": 12,
-                        "endOffset": 13918
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14056,
+                    "endColumn": 94,
+                    "endOffset": 14146
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
                     }
                 }
             },
@@ -1297,20 +1221,37 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14293,
-                    "endLine": 189,
-                    "endColumn": 12,
-                    "endOffset": 14423
+                    "startOffset": 14151,
+                    "endColumn": 122,
+                    "endOffset": 14269
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
-                        "startOffset": 13923,
-                        "endLine": 182,
-                        "endColumn": 12,
-                        "endOffset": 14053
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14274,
+                    "endColumn": 128,
+                    "endOffset": 14398
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
                     }
                 }
             },
@@ -1318,81 +1259,100 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14428,
-                    "endLine": 191,
-                    "endColumn": 12,
-                    "endOffset": 14542
+                    "startOffset": 14403,
+                    "endColumn": 116,
+                    "endOffset": 14515
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
-                        "startOffset": 14058,
-                        "endLine": 184,
-                        "endColumn": 12,
-                        "endOffset": 14172
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14547,
-                    "endLine": 195,
+                    "startOffset": 14520,
+                    "endLine": 193,
                     "endColumn": 12,
-                    "endOffset": 14743
+                    "endOffset": 14692
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 185,
+                        "startLine": 184,
                         "startColumn": 4,
-                        "startOffset": 14177,
-                        "endLine": 188,
+                        "startOffset": 14150,
+                        "endLine": 186,
                         "endColumn": 12,
-                        "endOffset": 14373
+                        "endOffset": 14322
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14748,
-                    "endLine": 197,
+                    "startOffset": 14697,
+                    "endColumn": 98,
+                    "endOffset": 14791
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14796,
+                    "endLine": 196,
                     "endColumn": 12,
-                    "endOffset": 14862
+                    "endOffset": 14926
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 189,
+                        "startLine": 188,
                         "startColumn": 4,
-                        "startOffset": 14378,
-                        "endLine": 190,
+                        "startOffset": 14426,
+                        "endLine": 189,
                         "endColumn": 12,
-                        "endOffset": 14492
+                        "endOffset": 14556
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14867,
-                    "endColumn": 92,
-                    "endOffset": 14955
+                    "startOffset": 14931,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 15069
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 191,
+                        "startLine": 190,
                         "startColumn": 4,
-                        "startOffset": 14497,
-                        "endColumn": 92,
-                        "endOffset": 14585
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
                     }
                 }
             },
@@ -1400,37 +1360,20 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 14960,
-                    "endColumn": 110,
-                    "endOffset": 15066
+                    "startOffset": 15074,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 15204
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
-                        "startOffset": 14590,
-                        "endColumn": 110,
-                        "endOffset": 14696
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 200,
-                    "startColumn": 4,
-                    "startOffset": 15071,
-                    "endColumn": 55,
-                    "endOffset": 15122
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 193,
-                        "startColumn": 4,
-                        "startOffset": 14701,
-                        "endColumn": 55,
-                        "endOffset": 14752
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
                     }
                 }
             },
@@ -1438,20 +1381,20 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 15127,
+                    "startOffset": 15209,
                     "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 15229
+                    "endOffset": 15323
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
-                        "startOffset": 14757,
+                        "startOffset": 14839,
                         "endLine": 195,
                         "endColumn": 12,
-                        "endOffset": 14859
+                        "endOffset": 14953
                     }
                 }
             },
@@ -1459,20 +1402,20 @@
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 15234,
+                    "startOffset": 15328,
                     "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 15424
+                    "endOffset": 15524
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
-                        "startOffset": 14864,
+                        "startOffset": 14958,
                         "endLine": 199,
                         "endColumn": 12,
-                        "endOffset": 15054
+                        "endOffset": 15154
                     }
                 }
             },
@@ -1480,20 +1423,20 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15429,
+                    "startOffset": 15529,
                     "endLine": 208,
                     "endColumn": 12,
-                    "endOffset": 15535
+                    "endOffset": 15643
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
-                        "startOffset": 15059,
+                        "startOffset": 15159,
                         "endLine": 201,
                         "endColumn": 12,
-                        "endOffset": 15165
+                        "endOffset": 15273
                     }
                 }
             },
@@ -1501,20 +1444,37 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15540,
-                    "endLine": 210,
-                    "endColumn": 12,
-                    "endOffset": 15668
+                    "startOffset": 15648,
+                    "endColumn": 92,
+                    "endOffset": 15736
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
-                        "startOffset": 15170,
-                        "endLine": 203,
-                        "endColumn": 12,
-                        "endOffset": 15298
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15741,
+                    "endColumn": 110,
+                    "endOffset": 15847
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
                     }
                 }
             },
@@ -1522,18 +1482,18 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 15673,
-                    "endColumn": 94,
-                    "endOffset": 15763
+                    "startOffset": 15852,
+                    "endColumn": 55,
+                    "endOffset": 15903
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
-                        "startOffset": 15303,
-                        "endColumn": 94,
-                        "endOffset": 15393
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
                     }
                 }
             },
@@ -1541,37 +1501,20 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15768,
-                    "endColumn": 90,
-                    "endOffset": 15854
+                    "startOffset": 15908,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 16010
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
-                        "startOffset": 15398,
-                        "endColumn": 90,
-                        "endOffset": 15484
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 213,
-                    "startColumn": 4,
-                    "startOffset": 15859,
-                    "endColumn": 90,
-                    "endOffset": 15945
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 206,
-                        "startColumn": 4,
-                        "startOffset": 15489,
-                        "endColumn": 90,
-                        "endOffset": 15575
+                        "startOffset": 15538,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15640
                     }
                 }
             },
@@ -1579,121 +1522,201 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 15950,
-                    "endColumn": 116,
-                    "endOffset": 16062
+                    "startOffset": 16015,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 16205
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
-                        "startOffset": 15580,
+                        "startOffset": 15645,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16210,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 16316
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15840,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 16321,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 16449
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16454,
+                    "endColumn": 94,
+                    "endOffset": 16544
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16549,
+                    "endColumn": 90,
+                    "endOffset": 16635
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16640,
+                    "endColumn": 90,
+                    "endOffset": 16726
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16731,
+                    "endColumn": 116,
+                    "endOffset": 16843
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16361,
                         "endColumn": 116,
-                        "endOffset": 15692
+                        "endOffset": 16473
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16067,
-                    "endLine": 216,
+                    "startOffset": 16848,
+                    "endLine": 227,
                     "endColumn": 12,
-                    "endOffset": 16201
+                    "endOffset": 16982
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 208,
+                        "startLine": 219,
                         "startColumn": 4,
-                        "startOffset": 15697,
-                        "endLine": 209,
+                        "startOffset": 16478,
+                        "endLine": 220,
                         "endColumn": 12,
-                        "endOffset": 15831
+                        "endOffset": 16612
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 16206,
-                    "endLine": 226,
+                    "startOffset": 16987,
+                    "endLine": 237,
                     "endColumn": 12,
-                    "endOffset": 16714
+                    "endOffset": 17495
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 210,
+                        "startLine": 221,
                         "startColumn": 4,
-                        "startOffset": 15836,
-                        "endLine": 219,
+                        "startOffset": 16617,
+                        "endLine": 230,
                         "endColumn": 12,
-                        "endOffset": 16344
+                        "endOffset": 17125
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 16719,
-                    "endLine": 236,
+                    "startOffset": 17500,
+                    "endLine": 247,
                     "endColumn": 12,
-                    "endOffset": 17239
+                    "endOffset": 18020
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 220,
+                        "startLine": 231,
                         "startColumn": 4,
-                        "startOffset": 16349,
-                        "endLine": 229,
+                        "startOffset": 17130,
+                        "endLine": 240,
                         "endColumn": 12,
-                        "endOffset": 16869
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 237,
-                    "startColumn": 4,
-                    "startOffset": 17244,
-                    "endLine": 246,
-                    "endColumn": 12,
-                    "endOffset": 17919
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 230,
-                        "startColumn": 4,
-                        "startOffset": 16874,
-                        "endLine": 239,
-                        "endColumn": 12,
-                        "endOffset": 17549
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 247,
-                    "startColumn": 4,
-                    "startOffset": 17924,
-                    "endColumn": 56,
-                    "endOffset": 17976
-                },
-                "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 240,
-                        "startColumn": 4,
-                        "startOffset": 17554,
-                        "endColumn": 56,
-                        "endOffset": 17606
+                        "endOffset": 17650
                     }
                 }
             },
@@ -1701,18 +1724,58 @@
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 17981,
-                    "endColumn": 57,
-                    "endOffset": 18034
+                    "startOffset": 18025,
+                    "endLine": 257,
+                    "endColumn": 12,
+                    "endOffset": 18700
                 },
                 "from": {
-                    "file": "/home/reality/alsuti/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v21/values-v21.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
-                        "startOffset": 17611,
+                        "startOffset": 17655,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 18705,
+                    "endColumn": 56,
+                    "endOffset": 18757
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endColumn": 56,
+                        "endOffset": 18387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 18762,
+                    "endColumn": 57,
+                    "endOffset": 18815
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 18392,
                         "endColumn": 57,
-                        "endOffset": 17664
+                        "endOffset": 18445
                     }
                 }
             }
