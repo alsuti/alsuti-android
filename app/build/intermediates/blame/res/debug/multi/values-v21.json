@@ -26,27 +26,8 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 159,
-                    "endColumn": 68,
-                    "endOffset": 223
-                },
-                "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 223,
-                        "endColumn": 68,
-                        "endOffset": 287
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 228,
                     "endColumn": 63,
-                    "endOffset": 287
+                    "endOffset": 218
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -61,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 292,
+                    "startOffset": 223,
                     "endColumn": 66,
-                    "endOffset": 354
+                    "endOffset": 285
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -80,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 359,
+                    "startOffset": 290,
                     "endColumn": 63,
-                    "endOffset": 418
+                    "endOffset": 349
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -99,12 +80,12 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 423,
-                    "endLine": 12,
+                    "startOffset": 354,
+                    "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 719
+                    "endOffset": 650
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\src\\main\\res\\values-v21\\styles.xml",
@@ -120,11 +101,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 724,
+                    "startOffset": 655,
                     "endColumn": 90,
-                    "endOffset": 810
+                    "endOffset": 741
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -139,11 +120,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 815,
+                    "startOffset": 746,
                     "endColumn": 102,
-                    "endOffset": 913
+                    "endOffset": 844
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -158,11 +139,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 918,
+                    "startOffset": 849,
                     "endColumn": 102,
-                    "endOffset": 1016
+                    "endOffset": 947
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -177,11 +158,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1021,
+                    "startOffset": 952,
                     "endColumn": 104,
-                    "endOffset": 1121
+                    "endOffset": 1052
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -196,11 +177,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1126,
+                    "startOffset": 1057,
                     "endColumn": 106,
-                    "endOffset": 1228
+                    "endOffset": 1159
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -215,11 +196,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1233,
+                    "startOffset": 1164,
                     "endColumn": 108,
-                    "endOffset": 1337
+                    "endOffset": 1268
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -234,11 +215,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1342,
+                    "startOffset": 1273,
                     "endColumn": 108,
-                    "endOffset": 1446
+                    "endOffset": 1377
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -253,11 +234,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1451,
+                    "startOffset": 1382,
                     "endColumn": 108,
-                    "endOffset": 1555
+                    "endOffset": 1486
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -272,11 +253,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1560,
+                    "startOffset": 1491,
                     "endColumn": 108,
-                    "endOffset": 1664
+                    "endOffset": 1595
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -291,11 +272,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1669,
+                    "startOffset": 1600,
                     "endColumn": 108,
-                    "endOffset": 1773
+                    "endOffset": 1704
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -310,11 +291,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1778,
+                    "startOffset": 1709,
                     "endColumn": 106,
-                    "endOffset": 1880
+                    "endOffset": 1811
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -329,11 +310,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1885,
+                    "startOffset": 1816,
                     "endColumn": 102,
-                    "endOffset": 1983
+                    "endOffset": 1914
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -348,11 +329,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1988,
+                    "startOffset": 1919,
                     "endColumn": 118,
-                    "endOffset": 2102
+                    "endOffset": 2033
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -367,12 +348,12 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2107,
-                    "endLine": 27,
+                    "startOffset": 2038,
+                    "endLine": 26,
                     "endColumn": 12,
-                    "endOffset": 2257
+                    "endOffset": 2188
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -388,12 +369,12 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2262,
-                    "endLine": 29,
+                    "startOffset": 2193,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 2412
+                    "endOffset": 2343
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -409,11 +390,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2417,
+                    "startOffset": 2348,
                     "endColumn": 104,
-                    "endOffset": 2517
+                    "endOffset": 2448
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -428,11 +409,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2522,
+                    "startOffset": 2453,
                     "endColumn": 120,
-                    "endOffset": 2638
+                    "endOffset": 2569
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -447,11 +428,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2643,
+                    "startOffset": 2574,
                     "endColumn": 100,
-                    "endOffset": 2739
+                    "endOffset": 2670
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -466,12 +447,12 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2744,
-                    "endLine": 34,
+                    "startOffset": 2675,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 2886
+                    "endOffset": 2817
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -487,12 +468,12 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2891,
-                    "endLine": 36,
+                    "startOffset": 2822,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 3027
+                    "endOffset": 2958
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -508,11 +489,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3032,
+                    "startOffset": 2963,
                     "endColumn": 102,
-                    "endOffset": 3130
+                    "endOffset": 3061
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -527,11 +508,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3135,
+                    "startOffset": 3066,
                     "endColumn": 118,
-                    "endOffset": 3249
+                    "endOffset": 3180
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -546,11 +527,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3254,
+                    "startOffset": 3185,
                     "endColumn": 106,
-                    "endOffset": 3356
+                    "endOffset": 3287
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -565,11 +546,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3361,
+                    "startOffset": 3292,
                     "endColumn": 102,
-                    "endOffset": 3459
+                    "endOffset": 3390
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -584,12 +565,12 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3464,
-                    "endLine": 42,
+                    "startOffset": 3395,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3614
+                    "endOffset": 3545
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -605,12 +586,12 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3619,
-                    "endLine": 44,
+                    "startOffset": 3550,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 3785
+                    "endOffset": 3716
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -626,12 +607,12 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3790,
-                    "endLine": 46,
+                    "startOffset": 3721,
+                    "endLine": 45,
                     "endColumn": 12,
-                    "endOffset": 3934
+                    "endOffset": 3865
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -647,12 +628,12 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3939,
-                    "endLine": 48,
+                    "startOffset": 3870,
+                    "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 4099
+                    "endOffset": 4030
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -668,12 +649,12 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4104,
-                    "endLine": 50,
+                    "startOffset": 4035,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 4256
+                    "endOffset": 4187
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -689,12 +670,12 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4261,
-                    "endLine": 52,
+                    "startOffset": 4192,
+                    "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4407
+                    "endOffset": 4338
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -710,11 +691,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4412,
+                    "startOffset": 4343,
                     "endColumn": 118,
-                    "endOffset": 4526
+                    "endOffset": 4457
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -729,12 +710,12 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4531,
-                    "endLine": 58,
+                    "startOffset": 4462,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 4898
+                    "endOffset": 4829
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -750,12 +731,12 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4903,
-                    "endLine": 60,
+                    "startOffset": 4834,
+                    "endLine": 59,
                     "endColumn": 12,
-                    "endOffset": 5047
+                    "endOffset": 4978
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -771,12 +752,12 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5052,
-                    "endLine": 62,
+                    "startOffset": 4983,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 5196
+                    "endOffset": 5127
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -792,11 +773,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5201,
+                    "startOffset": 5132,
                     "endColumn": 111,
-                    "endOffset": 5308
+                    "endOffset": 5239
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -811,11 +792,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5313,
+                    "startOffset": 5244,
                     "endColumn": 146,
-                    "endOffset": 5455
+                    "endOffset": 5386
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -830,12 +811,12 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5460,
-                    "endLine": 66,
+                    "startOffset": 5391,
+                    "endLine": 65,
                     "endColumn": 12,
-                    "endOffset": 5608
+                    "endOffset": 5539
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -851,12 +832,12 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 5613,
-                    "endLine": 68,
+                    "startOffset": 5544,
+                    "endLine": 67,
                     "endColumn": 12,
-                    "endOffset": 5755
+                    "endOffset": 5686
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -872,11 +853,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 5760,
+                    "startOffset": 5691,
                     "endColumn": 74,
-                    "endOffset": 5830
+                    "endOffset": 5761
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -891,11 +872,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 5835,
+                    "startOffset": 5766,
                     "endColumn": 88,
-                    "endOffset": 5919
+                    "endOffset": 5850
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -910,11 +891,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 5924,
+                    "startOffset": 5855,
                     "endColumn": 86,
-                    "endOffset": 6006
+                    "endOffset": 5937
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -929,11 +910,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 6011,
+                    "startOffset": 5942,
                     "endColumn": 100,
-                    "endOffset": 6107
+                    "endOffset": 6038
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -948,11 +929,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 6112,
+                    "startOffset": 6043,
                     "endColumn": 102,
-                    "endOffset": 6210
+                    "endOffset": 6141
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -967,12 +948,12 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 6215,
-                    "endLine": 117,
+                    "startOffset": 6146,
+                    "endLine": 116,
                     "endColumn": 12,
-                    "endOffset": 9278
+                    "endOffset": 9209
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -988,12 +969,12 @@
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 9283,
-                    "endLine": 120,
+                    "startOffset": 9214,
+                    "endLine": 119,
                     "endColumn": 12,
-                    "endOffset": 9464
+                    "endOffset": 9395
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1009,12 +990,12 @@
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 9469,
-                    "endLine": 164,
+                    "startOffset": 9400,
+                    "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12544
+                    "endOffset": 12475
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1030,12 +1011,12 @@
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12549,
-                    "endLine": 167,
+                    "startOffset": 12480,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12742
+                    "endOffset": 12673
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1051,12 +1032,12 @@
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12747,
-                    "endLine": 170,
+                    "startOffset": 12678,
+                    "endLine": 169,
                     "endColumn": 12,
-                    "endOffset": 12942
+                    "endOffset": 12873
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1072,12 +1053,12 @@
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 12947,
-                    "endLine": 172,
+                    "startOffset": 12878,
+                    "endLine": 171,
                     "endColumn": 12,
-                    "endOffset": 13065
+                    "endOffset": 12996
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1093,12 +1074,12 @@
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 13070,
-                    "endLine": 174,
+                    "startOffset": 13001,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 13188
+                    "endOffset": 13119
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1114,12 +1095,12 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13193,
-                    "endLine": 176,
+                    "startOffset": 13124,
+                    "endLine": 175,
                     "endColumn": 12,
-                    "endOffset": 13301
+                    "endOffset": 13232
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1135,12 +1116,12 @@
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13306,
-                    "endLine": 179,
+                    "startOffset": 13237,
+                    "endLine": 178,
                     "endColumn": 12,
-                    "endOffset": 13484
+                    "endOffset": 13415
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1156,12 +1137,12 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13489,
-                    "endLine": 181,
+                    "startOffset": 13420,
+                    "endLine": 180,
                     "endColumn": 12,
-                    "endOffset": 13615
+                    "endOffset": 13546
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1177,12 +1158,12 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13620,
-                    "endLine": 184,
+                    "startOffset": 13551,
+                    "endLine": 183,
                     "endColumn": 12,
-                    "endOffset": 13816
+                    "endOffset": 13747
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1198,11 +1179,11 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 13821,
+                    "startOffset": 13752,
                     "endColumn": 88,
-                    "endOffset": 13905
+                    "endOffset": 13836
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1217,11 +1198,11 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 13910,
+                    "startOffset": 13841,
                     "endColumn": 110,
-                    "endOffset": 14016
+                    "endOffset": 13947
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1236,12 +1217,12 @@
             },
             {
                 "to": {
-                    "startLine": 187,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 14021,
-                    "endLine": 189,
+                    "startOffset": 13952,
+                    "endLine": 188,
                     "endColumn": 12,
-                    "endOffset": 14249
+                    "endOffset": 14180
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1257,11 +1238,11 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 14254,
+                    "startOffset": 14185,
                     "endColumn": 100,
-                    "endOffset": 14350
+                    "endOffset": 14281
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1276,11 +1257,11 @@
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14355,
+                    "startOffset": 14286,
                     "endColumn": 94,
-                    "endOffset": 14445
+                    "endOffset": 14376
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1295,11 +1276,11 @@
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14450,
+                    "startOffset": 14381,
                     "endColumn": 122,
-                    "endOffset": 14568
+                    "endOffset": 14499
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1314,11 +1295,11 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 14573,
+                    "startOffset": 14504,
                     "endColumn": 128,
-                    "endOffset": 14697
+                    "endOffset": 14628
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1333,11 +1314,11 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14702,
+                    "startOffset": 14633,
                     "endColumn": 116,
-                    "endOffset": 14814
+                    "endOffset": 14745
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1352,12 +1333,12 @@
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14819,
-                    "endLine": 197,
+                    "startOffset": 14750,
+                    "endLine": 196,
                     "endColumn": 12,
-                    "endOffset": 14991
+                    "endOffset": 14922
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1373,11 +1354,11 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14996,
+                    "startOffset": 14927,
                     "endColumn": 98,
-                    "endOffset": 15090
+                    "endOffset": 15021
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1392,12 +1373,12 @@
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 15095,
-                    "endLine": 200,
+                    "startOffset": 15026,
+                    "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 15225
+                    "endOffset": 15156
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1413,12 +1394,12 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 15230,
-                    "endLine": 202,
+                    "startOffset": 15161,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15368
+                    "endOffset": 15299
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1434,12 +1415,12 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15373,
-                    "endLine": 204,
+                    "startOffset": 15304,
+                    "endLine": 203,
                     "endColumn": 12,
-                    "endOffset": 15503
+                    "endOffset": 15434
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1455,12 +1436,12 @@
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15508,
-                    "endLine": 206,
+                    "startOffset": 15439,
+                    "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 15622
+                    "endOffset": 15553
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1476,12 +1457,12 @@
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15627,
-                    "endLine": 210,
+                    "startOffset": 15558,
+                    "endLine": 209,
                     "endColumn": 12,
-                    "endOffset": 15823
+                    "endOffset": 15754
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1497,12 +1478,12 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15828,
-                    "endLine": 212,
+                    "startOffset": 15759,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 15942
+                    "endOffset": 15873
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1518,11 +1499,11 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15947,
+                    "startOffset": 15878,
                     "endColumn": 92,
-                    "endOffset": 16035
+                    "endOffset": 15966
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1537,11 +1518,11 @@
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 16040,
+                    "startOffset": 15971,
                     "endColumn": 110,
-                    "endOffset": 16146
+                    "endOffset": 16077
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1556,11 +1537,11 @@
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 16151,
+                    "startOffset": 16082,
                     "endColumn": 55,
-                    "endOffset": 16202
+                    "endOffset": 16133
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1575,12 +1556,12 @@
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 16207,
-                    "endLine": 217,
+                    "startOffset": 16138,
+                    "endLine": 216,
                     "endColumn": 12,
-                    "endOffset": 16309
+                    "endOffset": 16240
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1596,12 +1577,12 @@
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 16314,
-                    "endLine": 221,
+                    "startOffset": 16245,
+                    "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 16504
+                    "endOffset": 16435
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1617,12 +1598,12 @@
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 16509,
-                    "endLine": 223,
+                    "startOffset": 16440,
+                    "endLine": 222,
                     "endColumn": 12,
-                    "endOffset": 16615
+                    "endOffset": 16546
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1638,12 +1619,12 @@
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16620,
-                    "endLine": 225,
+                    "startOffset": 16551,
+                    "endLine": 224,
                     "endColumn": 12,
-                    "endOffset": 16748
+                    "endOffset": 16679
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1659,11 +1640,11 @@
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16753,
+                    "startOffset": 16684,
                     "endColumn": 94,
-                    "endOffset": 16843
+                    "endOffset": 16774
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1678,11 +1659,11 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16848,
+                    "startOffset": 16779,
                     "endColumn": 90,
-                    "endOffset": 16934
+                    "endOffset": 16865
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1697,11 +1678,11 @@
             },
             {
                 "to": {
-                    "startLine": 228,
+                    "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 16939,
+                    "startOffset": 16870,
                     "endColumn": 90,
-                    "endOffset": 17025
+                    "endOffset": 16956
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1716,11 +1697,11 @@
             },
             {
                 "to": {
-                    "startLine": 229,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 17030,
+                    "startOffset": 16961,
                     "endColumn": 116,
-                    "endOffset": 17142
+                    "endOffset": 17073
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1735,12 +1716,12 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 17147,
-                    "endLine": 231,
+                    "startOffset": 17078,
+                    "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 17281
+                    "endOffset": 17212
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1756,11 +1737,11 @@
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 17286,
+                    "startOffset": 17217,
                     "endColumn": 70,
-                    "endOffset": 17352
+                    "endOffset": 17283
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1775,11 +1756,11 @@
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 17357,
+                    "startOffset": 17288,
                     "endColumn": 82,
-                    "endOffset": 17435
+                    "endOffset": 17366
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1794,12 +1775,12 @@
             },
             {
                 "to": {
-                    "startLine": 234,
+                    "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 17440,
-                    "endLine": 243,
+                    "startOffset": 17371,
+                    "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 18115
+                    "endOffset": 18046
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1815,11 +1796,11 @@
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 18120,
+                    "startOffset": 18051,
                     "endColumn": 56,
-                    "endOffset": 18172
+                    "endOffset": 18103
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1834,11 +1815,11 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 18177,
+                    "startOffset": 18108,
                     "endColumn": 57,
-                    "endOffset": 18230
+                    "endOffset": 18161
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1853,12 +1834,12 @@
             },
             {
                 "to": {
-                    "startLine": 246,
+                    "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 18235,
-                    "endLine": 257,
+                    "startOffset": 18166,
+                    "endLine": 256,
                     "endColumn": 12,
-                    "endOffset": 18924
+                    "endOffset": 18855
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1874,12 +1855,12 @@
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 18929,
-                    "endLine": 269,
+                    "startOffset": 18860,
+                    "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 19630
+                    "endOffset": 19561
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1895,11 +1876,11 @@
             },
             {
                 "to": {
-                    "startLine": 270,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 19635,
+                    "startOffset": 19566,
                     "endColumn": 118,
-                    "endOffset": 19749
+                    "endOffset": 19680
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1914,11 +1895,11 @@
             },
             {
                 "to": {
-                    "startLine": 271,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 19754,
+                    "startOffset": 19685,
                     "endColumn": 128,
-                    "endOffset": 19878
+                    "endOffset": 19809
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1933,12 +1914,12 @@
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 19883,
-                    "endLine": 274,
+                    "startOffset": 19814,
+                    "endLine": 273,
                     "endColumn": 12,
-                    "endOffset": 20049
+                    "endOffset": 19980
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1954,12 +1935,12 @@
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 20054,
-                    "endLine": 277,
+                    "startOffset": 19985,
+                    "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 20215
+                    "endOffset": 20146
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1975,11 +1956,11 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 20220,
+                    "startOffset": 20151,
                     "endColumn": 128,
-                    "endOffset": 20344
+                    "endOffset": 20275
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -1994,12 +1975,12 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 20349,
-                    "endLine": 281,
+                    "startOffset": 20280,
+                    "endLine": 280,
                     "endColumn": 12,
-                    "endOffset": 20515
+                    "endOffset": 20446
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -2015,11 +1996,11 @@
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 20520,
+                    "startOffset": 20451,
                     "endColumn": 130,
-                    "endOffset": 20646
+                    "endOffset": 20577
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -2034,12 +2015,12 @@
             },
             {
                 "to": {
-                    "startLine": 283,
+                    "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 20651,
-                    "endLine": 285,
+                    "startOffset": 20582,
+                    "endLine": 284,
                     "endColumn": 12,
-                    "endOffset": 20816
+                    "endOffset": 20747
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -2055,12 +2036,12 @@
             },
             {
                 "to": {
-                    "startLine": 286,
+                    "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 20821,
-                    "endLine": 288,
+                    "startOffset": 20752,
+                    "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 20991
+                    "endOffset": 20922
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -2076,12 +2057,12 @@
             },
             {
                 "to": {
-                    "startLine": 289,
+                    "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 20996,
-                    "endLine": 293,
+                    "startOffset": 20927,
+                    "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 21332
+                    "endOffset": 21263
                 },
                 "from": {
                     "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v21\\values-v21.xml",
@@ -2092,6 +2073,27 @@
                         "endLine": 286,
                         "endColumn": 12,
                         "endOffset": 20962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 21268,
+                    "endLine": 295,
+                    "endColumn": 12,
+                    "endOffset": 21457
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 244
                     }
                 }
             }

@@ -1,8 +1,6 @@
 package rehab.reality.alsuti;
 
 import android.Manifest;
-import android.app.ActionBar;
-import android.app.Activity;
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Intent;
@@ -10,34 +8,31 @@ import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
 import android.net.Uri;
-import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.provider.MediaStore;
-import android.provider.Settings;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.View;
 import android.view.Window;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.loopj.android.http.*;
+import com.loopj.android.http.AsyncHttpClient;
+import com.loopj.android.http.AsyncHttpResponseHandler;
+import com.loopj.android.http.RequestParams;
 
+import org.apache.commons.lang3.RandomStringUtils;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.liquidplayer.webkit.javascriptcore.JSException;
+import org.liquidplayer.javascript.JSException;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-import java.util.Random;
 
 public class UploadActivity extends AppCompatActivity {
 
@@ -83,7 +78,7 @@ public class UploadActivity extends AppCompatActivity {
         hideButtons();
 
         EditText progressBox = (EditText) findViewById(R.id.editText);
-        String password = random();
+        String password = RandomStringUtils.randomAlphanumeric(10);
 
         progressBox.setText("Encrypting");
         encrypted = true;
@@ -212,6 +207,7 @@ public class UploadActivity extends AppCompatActivity {
                             if (password != "") {
                                 link += "#" + password;
                             }
+                            System.out.println(password);
 
                             linkBox.setText(link);
 
@@ -252,19 +248,5 @@ public class UploadActivity extends AppCompatActivity {
     @Override
     public void onStop() {
         super.onStop();
-    }
-
-    // probably doesn't really belong here
-    // nicked from http://stackoverflow.com/questions/12116092/android-random-string-generator because lazy
-    public static String random() {
-        Random generator = new Random();
-        StringBuilder randomStringBuilder = new StringBuilder();
-        int randomLength = generator.nextInt(20);
-        char tempChar;
-        for (int i = 0; i < randomLength; i++){
-            tempChar = (char) (generator.nextInt(96) + 32);
-            randomStringBuilder.append(tempChar);
-        }
-        return randomStringBuilder.toString();
     }
 }

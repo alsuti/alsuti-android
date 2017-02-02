@@ -23,7 +23,7 @@ ADDED from D:\Projects\alsuti-android\app\src\main\AndroidManifest.xml:6:5-80
 		ADDED from D:\Projects\alsuti-android\app\src\main\AndroidManifest.xml:6:22-77
 application
 ADDED from D:\Projects\alsuti-android\app\src\main\AndroidManifest.xml:8:5-41:19
-MERGED from [com.android.support:design:23.1.1] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-common:9.8.0] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:4:5-7:19
@@ -98,8 +98,8 @@ MERGED from [com.google.android.gms:play-services-basement:9.8.0] D:\Projects\al
 		ADDED from D:\Projects\alsuti-android\app\src\main\AndroidManifest.xml:39:13-58
 uses-sdk
 INJECTED from D:\Projects\alsuti-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:23.1.1] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-base:9.8.0] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-common:9.8.0] D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\AndroidManifest.xml:3:5-42

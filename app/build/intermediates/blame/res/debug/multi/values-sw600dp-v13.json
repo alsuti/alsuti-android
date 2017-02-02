@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 611,
-                    "endColumn": 69,
-                    "endOffset": 676
+                    "endColumn": 59,
+                    "endOffset": 666
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 227,
-                        "endColumn": 69,
-                        "endOffset": 292
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 681,
-                    "endColumn": 70,
-                    "endOffset": 747
+                    "startOffset": 671,
+                    "endColumn": 69,
+                    "endOffset": 736
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 297,
-                        "endColumn": 70,
-                        "endOffset": 363
+                        "startOffset": 115,
+                        "endColumn": 69,
+                        "endOffset": 180
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 752,
-                    "endColumn": 71,
-                    "endOffset": 819
+                    "startOffset": 741,
+                    "endColumn": 70,
+                    "endOffset": 807
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 368,
-                        "endColumn": 71,
-                        "endOffset": 435
+                        "startOffset": 185,
+                        "endColumn": 70,
+                        "endOffset": 251
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 824,
-                    "endColumn": 57,
-                    "endOffset": 877
+                    "startOffset": 812,
+                    "endColumn": 71,
+                    "endOffset": 879
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 440,
-                        "endColumn": 57,
-                        "endOffset": 493
+                        "startOffset": 256,
+                        "endColumn": 71,
+                        "endOffset": 323
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 882,
+                    "startOffset": 884,
                     "endColumn": 57,
-                    "endOffset": 935
+                    "endOffset": 937
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 498,
+                        "startOffset": 328,
                         "endColumn": 57,
-                        "endOffset": 551
+                        "endOffset": 381
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 940,
-                    "endColumn": 105,
-                    "endOffset": 1041
+                    "startOffset": 942,
+                    "endColumn": 57,
+                    "endOffset": 995
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 556,
-                        "endColumn": 105,
-                        "endOffset": 657
+                        "startOffset": 386,
+                        "endColumn": 57,
+                        "endOffset": 439
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1046,
-                    "endColumn": 63,
-                    "endOffset": 1105
+                    "startOffset": 1000,
+                    "endColumn": 105,
+                    "endOffset": 1101
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 662,
-                        "endColumn": 63,
-                        "endOffset": 721
+                        "startOffset": 444,
+                        "endColumn": 105,
+                        "endOffset": 545
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1110,
-                    "endColumn": 62,
-                    "endOffset": 1168
+                    "startOffset": 1106,
+                    "endColumn": 63,
+                    "endOffset": 1165
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 898,
-                        "endColumn": 62,
-                        "endOffset": 956
+                        "startOffset": 550,
+                        "endColumn": 63,
+                        "endOffset": 609
                     }
                 }
             },
@@ -310,20 +310,39 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1173,
-                    "endLine": 21,
-                    "endColumn": 12,
-                    "endOffset": 1350
+                    "startOffset": 1170,
+                    "endColumn": 62,
+                    "endOffset": 1228
                 },
                 "from": {
-                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1133,
-                        "endLine": 19,
+                        "startOffset": 614,
+                        "endColumn": 62,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1233,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1410
+                },
+                "from": {
+                    "file": "D:\\Projects\\alsuti-android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 14,
                         "endColumn": 12,
-                        "endOffset": 1310
+                        "endOffset": 854
                     }
                 }
             }

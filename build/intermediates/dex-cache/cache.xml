@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_39e451dd3b32dd5f199fd869e9c18c2fa0df38a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_c0352e84fdff7e2a5def5267bbe44313baeb7235\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programs\Android\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_4bc43a858f5059343c10eba7bf0e170dd6d14309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karen\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_04a706e44460928d5586ccf32e0bea4834d97cef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_10a1199370e0cc794a7e1cf6131b6fab6c17ff3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_6ac9069b940bb615cd684e34cce98c6ba9a2a9f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_9c052c3c52cf3d32b9aed1b96c0f2bbd6261edb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_3871aecde743e1a3cef9596a4787281e34c22f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_e529cfc68410ecccbbd6aa713ccbd9e5eca890a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karen\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.5_ceba39be131c37295938e567a55766cb6e763128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.github.liquidplayer\LiquidCore\v0.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4d8f74be8f832fc8e31b99b85327669ec7d94bd">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.liquidplayer-LiquidCore-v0.1.0_7855befd6df69ccfe9b9f22f9aa7f9f516ea401d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="854819aa3947cb94c903b04917897fff155c4084">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f393a8ca3de2d777ab118c9643074dc9c4a148d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_3528ef23efe1723b92f1a636359efb4b2978b396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_9775018fa307302619e3adc440b4981de3944bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_797170d3db5a57668c7ad48699c054a18e40facb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programs\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_ff51c59b4025aae36492fc0b29e28d6788e2a7f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_fcf76cc3cb9ab1744e956f55b97bb9e8a2e65ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_8c46c583f4249370c22089606afba9d85be94937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="521ba8084e1883de39514df1cf1576dff04a654a">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7804820036749ced47febca1db8ee3b3f88e8a0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_d45f7d076c63a2436464620d11cd8f406a6e9527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_69331829a7e986e607ec525ce3d7d3cf90f8bb72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_2711720f63a9f2aa809cecae86ed6ef60de90cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Karen\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_04d55ba579a4c51788b3558a5771c94c8220dfd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\alsuti-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_4a2f6ed7613f6e2c6b40b43a87729ccb0b5cd06a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programs\Android\gradle\m2repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="D:\Projects\alsuti-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-codec-1.10_47bf0f59394c7dfc1345f6bcdf2f34c8fac4d395\classes.dex" />
+    </item>
+
+</items>
